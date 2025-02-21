@@ -27,6 +27,8 @@ Calculator should not evaluate more than a single pair of numbers at a time.
 
 ### Screenshot
 
+![](./screenshot.png)
+
 ### Links
 
 - Solution URL: [Link](https://github.com/skytop44/Calculator)
